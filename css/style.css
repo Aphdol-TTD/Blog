@@ -1,0 +1,263 @@
+.class1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 40px;
+    border-bottom: 1px solid darkgray;
+}
+h4{
+    letter-spacing: 7px;
+    margin-top: 47px;
+}
+.ul{
+    list-style-type: none;
+}
+.abc{
+    letter-spacing: 1px;
+}
+li{
+    font-size: 20px;
+}
+.class1 nav ul{
+    list-style-type: none;
+}
+.class1 li{
+    text-transform: uppercase;
+    display: inline;
+}
+.class1 h4{
+    display: inline;
+    margin-left: 25px;
+}
+a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: black;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    word-spacing: -8px;
+}
+
+h2{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin: 40px;
+    word-spacing: 7px;
+}
+.mia{
+    margin-left: 8px;
+}
+.name{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, serif;
+    font-size: 17px;
+    text-align: center;
+}
+.date{
+    font-size: 15px;
+    font-weight: 550;
+    text-align: center;
+    margin-right: 40px;
+}
+.site1{
+    display: flex;
+    width: 160px;
+    height: 40px;
+    margin-left: 800px;
+    justify-content: center;
+    color: black;
+}
+.line{
+    text-decoration: overline;
+}
+p{
+    text-align:left;
+    margin-left:450px;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.next{
+    text-align:left;
+    margin-left:450px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mask{
+    margin-left: 370px;
+    margin-top: 25px;
+}
+h6{
+    margin-right: -250px;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 16px;
+}
+.first{
+    margin-left: 430px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    list-style-type: square;
+}
+.site2{
+    margin-left: 450px;
+    margin-top: 60px;
+}
+.tags{
+    margin-left: 450px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.mik{
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.mek{
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mage{
+    float: left;
+}
+.read{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    word-spacing: -5px;
+}
+.article-contener
+{
+    margin: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.first-line , .second-line
+{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 10px auto;
+}
+
+.details
+{
+    text-align: center;
+}
+
+.details a 
+{
+    text-decoration: none;
+    color: black;
+}
+.imag img
+{
+    width: 300px;
+}
+.let1 .let2
+{
+    margin: 0 auto;
+    display:block;
+    width: 550px;
+    height: 290px;
+    border-width: 450px;
+    border-width: 10px 2px 2px 2px;
+    border-style: solid;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.letter
+{
+   text-align: center;
+   font-weight: bold;
+   color: black;
+   padding-bottom: 15px;
+   padding-top: 20px;
+   font-weight: bold;
+   font-size: 40px;
+   word-spacing: 0px;
+}
+.let2
+{
+   margin: 0 auto;
+   text-align: center;
+}
+
+.updates
+{
+   font-size: 1.1rem;
+}
+
+.div
+{
+   margin: 20px auto;
+}
+.div form input
+{
+   width: 330px;
+   height: 40px;
+   margin-left: 50px;
+}
+.div form button
+{
+   background-color: black;
+   color: white;
+   height: 50px;
+   width: 100px;
+   margin-right: 50px;
+}
+.digital{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 18px;
+    font-size: 20px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+.end1{
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 28px;
+}
+.end2{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 25px;
+}
+.site3{
+    text-align: center;
+    height: 30px;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 15px;
+    word-spacing: -5px;
+}
+.size{
+    color: white;
+    letter-spacing: 1px;
+}
+.reserved{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    word-spacing: 1px;
+    margin-left: 10px;
+    color: white;
+}
+.foot{
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: black;
+    height: 420px;
+    color: white;
+}
+.jet{
+    font-size: xx-large;
+    background-color: burlywood;
+}
